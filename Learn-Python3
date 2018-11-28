@@ -1,0 +1,4 @@
+mystring = 'hi' 
+print(mystring)
+mystring = "hi" 
+print(mystring)
